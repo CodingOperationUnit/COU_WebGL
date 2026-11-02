@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75978197837",
+    "project_id": "forcepushsyndrome",
+    "storage_bucket": "forcepushsyndrome.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75978197837:android:242626c5ed21e3c5938504",
+        "android_client_info": {
+          "package_name": "com.cou.forcepushsyndrome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75978197837-kn1363hgg16mng5d31cc65q24v0ed967.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cou.forcepushsyndrome",
+            "certificate_hash": "1b196fda4e3cc7cf018e8f8120b2434ba40017e7"
+          }
+        },
+        {
+          "client_id": "75978197837-lvhldfdacns4v928cgkmj70tpb4qnkl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL0xInc7Ncy2uubAFduV0xS3HxEt2wqhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75978197837-lvhldfdacns4v928cgkmj70tpb4qnkl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
